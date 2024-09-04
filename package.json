@@ -1,0 +1,19 @@
+{
+  "name": "cv_latihan2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "vite": "^5.4.1",
+    "vue": "^3.4.38",
+    "vue-router": "^4.4.3"
+  }
+}
